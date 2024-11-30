@@ -9,11 +9,11 @@
  # 快速开始
  > [!IMPORTANT]
  > 此步骤非常重要
- ### 下载ZIP包
- ### 打开Crome浏览器
- ### 打开开发者模式
- ### 将插件ZIP包拖到`插件管理`中
- ### 在网站中选择文字后即可使用
+ - **下载ZIP包**
+ - **打开`Crome`浏览器**
+ - **打开开发者模式**
+ - **将插件ZIP包拖到`插件管理`中**
+ - **在网站中选择文字后即可使用**
  # stars
  ![activity](https://activity-graph.herokuapp.com/graph?username=tianhukj&theme=github)
  
