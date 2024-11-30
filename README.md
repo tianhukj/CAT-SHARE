@@ -1,7 +1,5 @@
  CAT-SHARE
- 
-
- 
+  
  ![github](https://img.shields.io/github/stars/tianhukj/cat-share.svg?style=social)
  ![Static Badge](https://img.shields.io/badge/build-passing-brightgreen)
  ![Static Badge](https://img.shields.io/badge/powerd-cursor-green)
