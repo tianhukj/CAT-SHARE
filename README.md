@@ -1,4 +1,4 @@
- CAT-SHARE
+ ![](https://raw.githubusercontent.com/tianhukj/CAT-SHARE/refs/heads/main/Logo.jpg)
   
  ![github](https://img.shields.io/github/stars/tianhukj/cat-share.svg?style=social)
  ![Static Badge](https://img.shields.io/badge/build-passing-brightgreen)
