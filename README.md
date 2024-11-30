@@ -1,9 +1,11 @@
  CAT-SHARE
  
+
+ 
  ![github](https://img.shields.io/github/stars/tianhukj/cat-share.svg?style=social)
  ![Static Badge](https://img.shields.io/badge/build-passing-brightgreen)
  ![Static Badge](https://img.shields.io/badge/powerd-cursor-green)
- 
+ ![Static Badge](https://img.shields.io/badge/licence-GPL3.0-blue)
  # 项目简介
  CAT-SHARE 工具是一款基于 Chrom 浏览器开发的插件，它可以在网站中选中文字后生成漂亮的分享卡片，并保存到本地。
  # 快速开始
