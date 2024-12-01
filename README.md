@@ -23,3 +23,4 @@
  # stars
  ![activity](https://activity-graph.herokuapp.com/graph?username=tianhukj&theme=github)
  
+![:Augenestern-creator](https://count.getloli.com/get/@:tianhukj?theme=gelbooru-h)
