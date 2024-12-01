@@ -6,7 +6,7 @@
  ![Static Badge](https://img.shields.io/badge/powerd-cursor-green)
  ![Static Badge](https://img.shields.io/badge/licence-GPL3.0-blue)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=这是一款美观的插件;这是一款实用的插件)](https://git.io/typing-svg) ![github] 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=这是一款美观的插件;这是一款实用的插件)](https://git.io/typing-svg) 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=tianhukj)]
 
