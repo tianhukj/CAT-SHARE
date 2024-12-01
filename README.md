@@ -1,6 +1,8 @@
- ![](https://raw.githubusercontent.com/tianhukj/CAT-SHARE/refs/heads/main/Logo.jpg)
+ ![cvg](https://raw.githubusercontent.com/tianhukj/CAT-SHARE/refs/heads/main/Logo.jpg)
+
+ 
   
- ![github](https://img.shields.io/github/stars/tianhukj/cat-share.svg?style=social)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=这是一款美观的插件;这是一款实用的插件)](https://git.io/typing-svg) ![github](https://img.shields.io/github/stars/tianhukj/cat-share.svg?style=social)
  ![Static Badge](https://img.shields.io/badge/build-passing-brightgreen)
  ![Static Badge](https://img.shields.io/badge/powerd-cursor-green)
  ![Static Badge](https://img.shields.io/badge/licence-GPL3.0-blue)
